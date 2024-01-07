@@ -1,5 +1,5 @@
 # NU-aly6050-Benefit-Cost-Analysis
-Benefit-Cost Analysis of Construction Projects
+Benefit-Cost Analysis of Construction Projects using Excel
 
 Introduction
 
